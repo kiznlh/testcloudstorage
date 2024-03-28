@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843483714365",
+    "project_id": "testapp-98bca",
+    "storage_bucket": "testapp-98bca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843483714365:android:5ef60851982270ea622b54",
+        "android_client_info": {
+          "package_name": "com.example.testcloudstorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUIVv0Np02J4BfUMWtuh3hTn8yjaiOcaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
